@@ -1,0 +1,9 @@
+Metric,Value
+total_orders,1200
+total_revenue,1264761.96
+avg_order_value,1053.97
+iqr_outliers,8
+cancelled_orders,250
+returned_orders,247
+top_product_revenue,Chair
+top_referral_source,Instagram
